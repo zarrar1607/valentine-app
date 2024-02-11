@@ -5,4 +5,11 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
+  
+  background-color: #FCFCFC;
+}
+.yes-btn{
+  background-color: 'green';
+  color: 'white';
+  margin-right:10px;
 }
